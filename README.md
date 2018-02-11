@@ -1,2 +1,3 @@
-# Microsoft70-532Exam
-Samples related to the Microsoft exam Developing Microsoft Azure Solutions (70-532)
+# Microsoft 70-532 Exam
+Samples that I've created while studying for the Microsoft Azure exam: Developing Microsoft Azure Solutions (70-532)
+
